@@ -1,0 +1,2 @@
+# qcrild from the tissot-based blob set depends on missing zero-byte IMS 1.1+
+# radio HAL libraries in this tree. NX549J uses the legacy rild stack instead.
